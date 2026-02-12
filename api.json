@@ -1,0 +1,354 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/gorgon",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "gorgon",
+    "name": "Gorgon",
+    "aliases": [
+      {
+        "name": "Gorgones",
+        "language": "Ancient Greek",
+        "meaning": "dreadful ones"
+      },
+      {
+        "name": "Gorgoneion",
+        "meaning": "protective image of Gorgon head"
+      }
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Divine Monster",
+    "tags": [
+      "greek-mythology",
+      "monster",
+      "female",
+      "petrification",
+      "guardian",
+      "ancient",
+      "primordial"
+    ],
+    "status": "mythological",
+    "description": {
+      "summary": "Three monstrous sisters from Greek mythology with the power to turn viewers to stone with their gaze. The most famous is Medusa, the only mortal gorgon, slain by Perseus.",
+      "full": "The Gorgons are three sisters from Greek mythology—Medusa, Stheno, and Euryale—daughters of the primordial sea deities Phorcys and Ceto. Described as having snake hair, brass hands, golden wings, tusks, and a horrifying appearance, they possessed the terrifying power to turn anyone who gazed upon them to stone. While Stheno and Euryale were immortal, Medusa was mortal and was ultimately killed by the hero Perseus. The Gorgons lived at the edge of the world, beyond the Ocean, in a realm associated with Night. In ancient Greek culture, the gorgoneion (a protective image of a Gorgon's head) was widely used as an apotropaic symbol to ward off evil."
+    },
+    "etymology": {
+      "origin": "From Ancient Greek Γοργώ (Gorgṓ), possibly from γοργός (gorgós) meaning 'dreadful, terrible, fierce'",
+      "meaning": "The dreadful ones",
+      "first_use": "circa 8th century BCE (Hesiod's Theogony)"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Divine Monster",
+      "subtype": "Primordial Being",
+      "variant": "Greek"
+    },
+    "related_phenomena": [
+      {
+        "id": "medusa",
+        "name": "Medusa",
+        "relationship": "component",
+        "description": "The mortal Gorgon sister, most famous of the three"
+      },
+      {
+        "id": "perseus",
+        "name": "Perseus",
+        "relationship": "antagonist",
+        "description": "Greek hero who slew Medusa"
+      },
+      {
+        "id": "basilisk",
+        "name": "Basilisk",
+        "relationship": "similar",
+        "description": "Another creature with petrifying gaze"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": {
+        "description": "Monstrous female beings with horrifying features",
+        "confidence": "mythological"
+      },
+      "features": [
+        {
+          "feature": "Snake hair",
+          "description": "Living venomous snakes instead of hair",
+          "frequency": "always"
+        },
+        {
+          "feature": "Brass hands",
+          "description": "Hands made of bronze or brass",
+          "frequency": "common"
+        },
+        {
+          "feature": "Golden wings",
+          "description": "Wings of gold allowing flight",
+          "frequency": "common"
+        },
+        {
+          "feature": "Tusks",
+          "description": "Boar-like tusks protruding from mouth",
+          "frequency": "common"
+        },
+        {
+          "feature": "Horrifying face",
+          "description": "Grotesque appearance causing instant petrification",
+          "frequency": "always"
+        },
+        {
+          "feature": "Protruding tongue",
+          "description": "Often depicted with tongue lolling out",
+          "frequency": "common"
+        }
+      ],
+      "morphology": "Humanoid female form with monstrous features. Depictions vary from beautiful (early Medusa) to terrifying (later traditions)."
+    },
+    "abilities": [
+      {
+        "ability": "Petrifying gaze",
+        "description": "Anyone who looks directly at a Gorgon turns to stone instantly",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Flight",
+        "description": "Golden wings enable flight (particularly Stheno and Euryale)",
+        "frequency": "common",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Immortality",
+        "description": "Stheno and Euryale are immortal; only Medusa was mortal",
+        "frequency": "varies",
+        "evidence_level": "mythological"
+      }
+    ],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "hostile",
+      "social_structure": "trio of sisters",
+      "habitat_preference": [
+        "far west beyond Ocean",
+        "edge of Night",
+        "Libya in some accounts"
+      ],
+      "patterns": [
+        "Guardian of boundaries",
+        "Dwell at edge of the world",
+        "Stheno and Euryale pursued Perseus after Medusa's death"
+      ]
+    },
+    "sisters": {
+      "medusa": {
+        "name": "Medusa",
+        "meaning": "guardian, protectress",
+        "status": "mortal",
+        "fate": "Killed by Perseus",
+        "offspring": "Pegasus and Chrysaor (born from her blood)",
+        "notes": "Most famous; originally beautiful in some accounts"
+      },
+      "stheno": {
+        "name": "Stheno",
+        "meaning": "mighty, strong",
+        "status": "immortal",
+        "fate": "Pursued Perseus",
+        "notes": "Most independent-minded of the sisters"
+      },
+      "euryale": {
+        "name": "Euryale",
+        "meaning": "wide-leaping, of the wide sea",
+        "status": "immortal",
+        "fate": "Pursued Perseus",
+        "notes": "Known for her bellowing cry"
+      }
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "The Gorgons dwelt at the edge of the world, in the far west beyond the Ocean, at the boundary of Night. Some accounts place them in Libya.",
+      "continents": ["Mythological"],
+      "regions": [
+        "Far western edge of world",
+        "Beyond Ocean",
+        "Realm of Night",
+        "Libya (some accounts)"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "8th century BCE",
+        "circa": true,
+        "source": "Hesiod's Theogony"
+      },
+      "cultural_period": "Ancient Greek civilization"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Ancient Greek mythology, part of primordial creation stories. Daughters of Phorcys and Ceto, ancient sea deities associated with dangers of the ocean.",
+      "earliest_accounts": "Hesiod's Theogony (8th-7th century BCE), Homer's Iliad",
+      "folklore_connections": "Connected to apotropaic magic, boundary guardians, and primal female power in Mediterranean cultures."
+    },
+    "timeline": [
+      {
+        "date": "8th century BCE",
+        "event": "Hesiod describes Gorgons in Theogony",
+        "significance": "First detailed literary account of the three sisters",
+        "source": "Theogony"
+      },
+      {
+        "date": "circa 700 BCE",
+        "event": "Gorgoneion appears in Greek art",
+        "significance": "Protective Gorgon masks used on temples, shields, pottery",
+        "source": "Archaeological evidence"
+      },
+      {
+        "date": "5th century BCE",
+        "event": "Perseus myth fully developed",
+        "significance": "Story of Medusa's death becomes central to Greek heroic tradition",
+        "source": "Various Greek sources"
+      },
+      {
+        "date": "1st century CE",
+        "event": "Ovid's Metamorphoses",
+        "significance": "Presents Medusa's backstory (raped by Poseidon, cursed by Athena)",
+        "source": "Metamorphoses"
+      }
+    ],
+    "modern_era": "The Gorgon, particularly Medusa, remains one of the most recognizable figures from Greek mythology. Modern interpretations often explore themes of female rage, victimization, and the male gaze. The image appears in art, literature, feminism, and popular culture."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Apotropaic guardians warding off evil",
+        "Boundary markers between civilization and chaos",
+        "Symbols of primal female power"
+      ],
+      "stories": [
+        "Perseus slaying Medusa with mirrored shield",
+        "Birth of Pegasus from Medusa's blood",
+        "Athena's aegis bearing Medusa's head",
+        "Stheno and Euryale's pursuit of Perseus"
+      ],
+      "beliefs": "Gorgoneion masks were believed to have genuine protective power against evil spirits and the evil eye."
+    },
+    "ancient_greek": {
+      "significance": "Central to Greek religion and magic. Gorgon heads decorated temples (Temple of Artemis at Corfu), shields, armor, and household items.",
+      "symbolism": [
+        "Apotropaic protection",
+        "Boundary between life and death",
+        "Sacred and profane",
+        "Female power and monstrosity"
+      ],
+      "architectural_use": "Temple pediments, particularly the Temple of Artemis at Corfu (circa 580 BCE) features prominent Gorgon"
+    },
+    "popular_culture": {
+      "literature": [
+        "Dante's Inferno (Medusa guards City of Dis)",
+        "Percy Jackson series by Rick Riordan",
+        "Madeline Miller's works",
+        "Anne Carson's 'Autobiography of Red'"
+      ],
+      "film_tv": [
+        "Clash of the Titans (1981, 2010)",
+        "Percy Jackson & the Olympians",
+        "Medusa (2021)",
+        "Doctor Who episodes"
+      ],
+      "art": [
+        "Caravaggio's 'Medusa' (1597)",
+        "Bernini's 'Medusa' (1630s)",
+        "Luciano Garbati's 'Medusa with the Head of Perseus' (2008)",
+        "Versace logo"
+      ],
+      "games": [
+        "God of War series",
+        "Assassin's Creed Odyssey",
+        "Dungeons & Dragons",
+        "Hades (Supergiant Games)"
+      ],
+      "other": [
+        "Feminist reinterpretations of Medusa as survivor",
+        "Versace fashion brand logo",
+        "Common tattoo motif"
+      ]
+    }
+  },
+
+  "symbolism": {
+    "ancient": [
+      "Apotropaic protection against evil",
+      "Guardian of sacred boundaries",
+      "Female monstrosity and power",
+      "Death and petrification"
+    ],
+    "modern": [
+      "Survivor of sexual violence (feminist readings)",
+      "The male gaze and objectification",
+      "Female rage and empowerment",
+      "Transformation and trauma"
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "hesiod-theogony",
+      "type": "ancient_text",
+      "title": "Theogony",
+      "authors": ["Hesiod"],
+      "date": "circa 700 BCE",
+      "description": "Earliest detailed account of Gorgons' origins"
+    },
+    {
+      "id": "ovid-metamorphoses",
+      "type": "ancient_text",
+      "title": "Metamorphoses",
+      "authors": ["Ovid"],
+      "date": "8 CE",
+      "description": "Contains Medusa's transformation story"
+    },
+    {
+      "id": "wilk-2000",
+      "type": "book",
+      "title": "Medusa: Solving the Mystery of the Gorgon",
+      "authors": ["Stephen R. Wilk"],
+      "publication": "Oxford University Press",
+      "date": "2000",
+      "isbn": "978-0195129168"
+    },
+    {
+      "id": "garber-vickers-2003",
+      "type": "book",
+      "title": "The Medusa Reader",
+      "authors": ["Marjorie Garber", "Nancy J. Vickers"],
+      "publication": "Routledge",
+      "date": "2003",
+      "isbn": "978-0415900980"
+    }
+  ]
+}
