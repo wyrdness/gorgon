@@ -1,314 +1,182 @@
 # Gorgon
 
-> *"Turn not your eyes upon the Gorgon's face, lest you be turned to stone."*
+> The Gorgons are three monstrous sisters of Greek myth — Medusa, Stheno, and Euryale — daughters of the primordial sea-deities Phorcys and Ceto, whose gaze turned mortals to stone.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-mythological-purple)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `gorgon` |
 | **Category** | MYTHOLOGICAL_CREATURE |
-| **Classification** | Divine Monster / Primordial Being |
-| **First Recorded** | circa 8th century BCE (Hesiod) |
-| **Primary Region** | Greek Mythology |
-| **Status** | Mythological |
+| **Subcategory** | Greek monstrous female (chthonic) |
+| **First recorded** | c. 700 BC |
+| **Primary range** | A creature of Ancient Greek and broader Mediterranean myth |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Gorgons are three monstrous sisters from Greek mythology—**Medusa**, **Stheno**, and **Euryale**—daughters of the primordial sea deities Phorcys and Ceto. Described as having snake hair, brass hands, golden wings, tusks, and a horrifying appearance, they possessed the terrifying power to turn anyone who gazed upon them to stone.
-
-While Stheno and Euryale were immortal, Medusa was mortal and was ultimately killed by the hero Perseus. The Gorgons lived at the edge of the world, beyond the Ocean, in a realm associated with Night.
-
-In ancient Greek culture, the gorgoneion (a protective image of a Gorgon's head) was widely used as an apotropaic symbol to ward off evil, decorating temples, shields, and household items throughout the ancient Mediterranean world.
+In Greek mythology the Gorgons (Greek: Gorgones) are three sisters described in archaic sources from Hesiod and Homer onward (c. 700 BC) as monstrous chthonic beings dwelling at the edge of the world. According to Hesiod's Theogony and the later Bibliotheca attributed to Apollodorus, they were daughters of the primordial sea-god Phorcys and his sister-consort Ceto. Their names are Stheno, Euryale (both immortal), and Medusa (mortal). Apollodorus describes them as having serpents for hair, large tusks like a boar's, brazen hands, and golden wings; later iconography emphasized snake-hair and a petrifying gaze. The most famous Gorgon, Medusa, was beheaded by the hero Perseus, who used a polished shield to view her reflection. From her severed neck sprang the winged horse Pegasus and the warrior Chrysaor. The severed head retained its petrifying power and was eventually fixed on Athena's aegis. Beyond myth, the gorgoneion — a frontal image of a Gorgon's face — was one of the most widespread apotropaic motifs in the ancient Mediterranean, appearing on temple pediments, antefixes, shields, coins, and household pottery from the 7th century BC onward. Scholars including Walter Burkert and Jane Ellen Harrison have argued that the gorgoneion mask preceded the developed myth, with the Perseus narrative arising as an explanation for the apotropaic image.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Gorgones | Ancient Greek | plural of Gorgo, 'dreadful' |
+| Medusa | Ancient Greek | 'guardian' or 'queen'; the only mortal Gorgon |
+| Stheno | Ancient Greek | 'strength'; immortal Gorgon |
+| Euryale | Ancient Greek | 'wide-leaping' or 'far-roaming'; immortal Gorgon |
+| Gorgoneion | Ancient Greek | apotropaic image of a Gorgon's head |
 
-### Primary Name
-- **Gorgon** — From Ancient Greek Γοργώ (Gorgṓ), possibly from γοργός (gorgós) meaning "dreadful, terrible, fierce"
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Gorgones | Ancient Greek | Plural form, "the dreadful ones" |
-| Gorgoneion | Ancient Greek | Protective image of Gorgon head |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: MYTHOLOGICAL_CREATURE
-├── Type: Divine Monster
-├── Subtype: Primordial Being
-└── Variant: Greek
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| Medusa | Component | The mortal Gorgon sister, most famous |
-| [Perseus](/perseus) | Antagonist | Greek hero who slew Medusa |
-| [Basilisk](/basilisk) | Similar | Another creature with petrifying gaze |
+- **Origin**: From Ancient Greek Γοργών (Gorgōn), related to the adjective γοργός (gorgós) meaning 'grim, fierce, terrible', particularly of a glaring eye. Possible Indo-European cognates include Sanskrit garj (to growl, roar).
+- **Meaning**: 'Dreadful (one)' or 'grim-faced (one)'; etymologically tied to a fierce, glaring look.
+- **First use**: Archaic Greek poetry, c. 8th–7th century BC (Hesiod, Homer)
 
 ---
+## Related Phenomena
 
-## The Three Sisters
-
-### Medusa ("Guardian, Protectress")
-- **Status**: Mortal (only mortal Gorgon)
-- **Fate**: Killed by Perseus using a mirrored shield
-- **Offspring**: Pegasus (winged horse) and Chrysaor (golden warrior) born from her blood
-- **Notes**: Most famous of the three; originally beautiful in some accounts before being cursed
-
-### Stheno ("Mighty, Strong")
-- **Status**: Immortal
-- **Fate**: Pursued Perseus after Medusa's death
-- **Notes**: Most independent-minded and fierce of the sisters
-
-### Euryale ("Wide-Leaping, Of the Wide Sea")
-- **Status**: Immortal
-- **Fate**: Pursued Perseus after Medusa's death
-- **Notes**: Known for her terrible bellowing cry that could be heard across vast distances
+- [Medusa](../medusa/) — _subset_: The mortal Gorgon, beheaded by Perseus
+- [Graeae](../graeae/) — _related_: The Gorgons' sisters; three grey-haired women sharing one eye and one tooth
+- [Lamia](../lamia/) — _similar_: Greek child-devouring monstrous female
+- [Echidna](../echidna/) — _similar_: Half-woman, half-serpent mother of monsters in Hesiod
+- [Humbaba](../humbaba/) — _similar_: Mesopotamian forest guardian whose terracotta-mask iconography parallels the gorgoneion
+- [Lamashtu](../lamashtu/) — _similar_: Mesopotamian demoness with iconographic parallels (knielauf pose, snakes) to archaic Gorgons
 
 ---
+## Physical Description
 
-## Characteristics
+- **Coloration**: bronze (hands), gold (wings), green/serpentine (hair)
+- **Morphology**: Sources vary. Archaic Gorgons appear as winged hybrid females in the 'knielauf' (kneeling-running) pose; later classical art renders Medusa increasingly beautiful, culminating in the Hellenistic-Roman 'Medusa Rondanini' type with small wings on the head and serpents knotted under the chin.
 
-### Physical Description
-
-**General Appearance**: Monstrous female beings with horrifying features designed to inspire terror
-
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Snake hair | Living venomous snakes instead of hair | Always |
-| Brass hands | Hands made of bronze or brass | Common |
-| Golden wings | Wings of gold allowing flight | Common |
-| Tusks | Boar-like tusks protruding from mouth | Common |
-| Horrifying face | Grotesque appearance causing instant petrification | Always |
-| Protruding tongue | Often depicted with tongue lolling out | Common |
+|---|---|---|
+| Snake hair | Living serpents in place of hair, explicitly described by Pindar and standard in art from the late archaic period | always |
+| Petrifying gaze | Direct sight of a Gorgon's face turned the viewer to stone; attested in Pherecydes and Pindar | always |
+| Tusks / boar-like fangs | Apollodorus: 'great tusks like swine's'; common in archaic gorgoneia | common |
+| Brazen hands | Apollodorus describes hands of bronze | common |
+| Golden wings | Wings of gold enabling flight; depicted on the Corfu Temple of Artemis pediment (early 6th c. BC) | common |
+| Glaring frontal face | Archaic gorgoneia show a wide, frontally-facing head with bulging eyes — exceptional in Greek vase painting, which usually shows figures in profile | always |
+| Lolling tongue | Protruding tongue between fangs in archaic representations | common |
 
-### Powers & Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Petrifying gaze | Anyone who looks directly at a Gorgon turns to stone instantly | Mythological |
-| Flight | Golden wings enable flight (particularly Stheno and Euryale) | Mythological |
-| Immortality | Stheno and Euryale are immortal; only Medusa was mortal | Mythological |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Petrification | Anyone who looks directly at a Gorgon's face turns to stone | always | folklore |
+| Flight | Winged Gorgons fly in pursuit of Perseus in the Eleusis Amphora and later sources | common | folklore |
+| Apotropaic protection (gorgoneion) | When fixed on a shield, aegis, or building, the Gorgon's image was believed to repel evil and avert harm | always | documented |
+| Blood with dual properties | In Euripides' Ion, Athena gives Erichthonius two drops of Gorgon blood: one heals, the other is lethal poison | rare | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Disposition**: Hostile to intruders
-- **Social Structure**: Trio of sisters dwelling together
-- **Habitat**: Far western edge of the world, beyond Ocean, at the boundary of Night; Libya in some accounts
-- **Role**: Guardians of boundaries between civilization and chaos, life and death
-
----
-
-## Origins & Lineage
-
-### Parentage
-- **Father**: Phorcys (ancient sea god, son of Gaia and Pontus)
-- **Mother**: Ceto (primordial sea goddess)
-- **Siblings**: The Graeae (gray sisters who shared one eye), other sea monsters
-
-### Location
-The Gorgons dwelt at the edge of the world in the far west, beyond the Ocean, at the realm of Night—a liminal space between the known world and primordial chaos.
+- **Activity**: unknown
+- **Disposition**: aggressive
+- **Social structure**: family_group
+- **Habitat**: far-western edge of the world (Hesiod), rocky island Sarpedon in Oceanus (Cypria), Gorgonean plains of Cisthene (Aeschylus), Lake Tritonis, North Africa (Aeschylus, Phorkides)
+- **Diet**: Not specified in canonical sources
 
 ---
+## Distribution
 
+A creature of Ancient Greek and broader Mediterranean myth. Literary references locate the Gorgons at the edges of the known world; iconographically, gorgoneia were used across the Greek, Etruscan, and Roman worlds and into Roman Britain.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Temple of Artemis, Corfu | Corfu (Kerkyra), Greece |  | c. 580 BC |
+| Roman Baths, Bath | Somerset, United Kingdom |  | 1st century AD |
+
+---
 ## Historical Timeline
 
-### Origins & Development
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| circa 8th century BCE | Hesiod describes Gorgons in Theogony | First detailed literary account of the three sisters |
-| circa 700 BCE | Gorgoneion appears in Greek art | Protective Gorgon masks used on temples, shields, pottery |
-| circa 580 BCE | Temple of Artemis at Corfu | Massive Gorgon pediment sculpture |
-| 5th century BCE | Perseus myth fully developed | Story of Medusa's death becomes central to heroic tradition |
-| 1st century CE | Ovid's Metamorphoses | Presents Medusa's backstory (Poseidon, Athena's curse) |
+|---|---|---|
+| c. 700 BC | Hesiod's Theogony names Sthenno, Euryale, and Medusa as daughters of Phorcys and Ceto | Earliest extant genealogy of the Gorgons |
+| c. 670 BC | Eleusis amphora depicts Perseus fleeing from two Gorgons after beheading Medusa | Among the earliest narrative depictions of the Perseus myth |
+| c. 580 BC | Pediment of the Temple of Artemis at Corfu shows a winged Gorgon in 'knielauf' pose | Largest surviving archaic stone Gorgon |
+| 5th century BC | Pindar describes Medusa with snake hair and as 'beautiful-cheeked', signaling shift to classical type | Origin of the 'beautiful Medusa' iconography |
+| c. 414 BC | Euripides' Ion mentions Athena giving two drops of Gorgon blood to Erichthonius | Source for the 'healing/killing' Gorgon-blood motif |
+| 1st century AD | Construction of the Temple of Sulis Minerva at Bath, with its famous gorgoneion pediment | Diffusion of gorgoneion iconography to Roman Britain |
+| 1st–2nd century AD | Pseudo-Apollodorus (Bibliotheca) compiles the standard mythography of the Gorgons | Most-cited canonical narrative |
 
-### Modern Era
+## Evidence
 
-The Gorgon, particularly Medusa, remains one of the most recognizable figures from Greek mythology. Modern interpretations often explore themes of female rage, victimization, and the male gaze. The image appears in art, literature, feminism, and popular culture.
+### Documentary
 
----
-
-## The Perseus Myth
-
-### The Quest
-Perseus was tasked by King Polydectes to bring back Medusa's head—an impossible task meant to result in his death.
-
-### Divine Aid
-- **Athena**: Provided a polished bronze shield to view Medusa's reflection
-- **Hermes**: Gave winged sandals and a sword
-- **Hades**: Provided helm of invisibility
-- **Graeae**: Forced to reveal the Gorgons' location
-
-### The Slaying
-Perseus approached Medusa while she slept, viewing her only through the reflection in his shield. He beheaded her with a single stroke. From her neck sprang Pegasus (the winged horse) and Chrysaor (a golden giant).
-
-### The Pursuit
-Stheno and Euryale awoke and pursued Perseus, but he escaped using Hades' helm of invisibility.
-
-### Medusa's Head
-Perseus used the severed head as a weapon, turning enemies to stone. He eventually gave it to Athena, who placed it on her aegis (shield/breastplate).
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Gorgon pediment, Temple of Artemis at Corfu | c. 580 BC | Limestone pediment, ~17 m wide, depicting a winged, snake-belted Gorgon flanked by Pegasus and Chrysaor. | verified |
+| Gorgon's Head, Temple of Sulis Minerva, Bath | 1st century AD | Carved central head from the temple pediment in the Roman Baths complex; a Romano-British fusion of gorgoneion with Celtic male head. | verified |
+| Medusa Rondanini | Roman copy, 1st–2nd c. AD, of a possible 5th-c. BC original | Marble gorgoneion of the 'beautiful Medusa' type, with knotted snakes under the chin and small head wings. | verified |
 
 ---
+## Theories & Explanations
 
-## Cultural Significance
+### Scientific
 
-### Ancient Greece
+**Ritual mask origin (Harrison)** _(Jane Ellen Harrison)_
 
-**Religious Function**:
-- Gorgoneion masks as apotropaic devices (warding off evil)
-- Temple decorations (pediments, metopes)
-- Shield devices for warriors
-- Household protection
+Jane Ellen Harrison argued the gorgoneion originated as an apotropaic ritual mask; the Gorgon-monster myth and the Perseus narrative were generated subsequently to explain the mask.
 
-**Architectural Examples**:
-- Temple of Artemis at Corfu (circa 580 BCE) — massive Gorgon pediment
-- Temple of Athena at Syracuse
-- Countless pottery and coin designs
+**Near Eastern derivation (Burkert)** _(Walter Burkert)_
 
-**Symbolism**:
-- Guardian of sacred boundaries
-- Protection against the evil eye
-- Divine terror and power
-- Death and the underworld
+Walter Burkert and others proposed that archaic Gorgon and Perseus iconography derived in part from Mesopotamian Humbaba and Lamashtu imagery transmitted through Bronze and Iron Age Mediterranean contact.
 
-### Modern Interpretations
+### Skeptical
 
-**Feminist Readings**:
-- Medusa as victim of sexual violence (Poseidon's assault, Athena's punishment)
-- Symbol of female rage and power
-- Critique of the male gaze
-- Survivor and warrior
+**Folkloric / mythographic phenomenon** _(mainstream classical scholarship)_
 
-**Art & Literature**:
-- Caravaggio's "Medusa" (1597)
-- Bernini's "Medusa" (1630s)
-- Luciano Garbati's "Medusa with the Head of Perseus" (2008) — feminist reversal
-- Countless modern retellings and adaptations
+Mainstream classical scholarship treats the Gorgons as a literary and iconographic motif of Greek religion, not as a creature ever claimed to physically exist.
 
-**Popular Culture**:
-- Versace logo (founded by Gianni Versace)
-- Fantasy literature and games
-- Horror and fantasy films
-- Tattoo and fashion motifs
-
----
-
-## Symbolism
-
-### Ancient Symbolism
-- Apotropaic protection against evil
-- Guardian of sacred boundaries
-- Female monstrosity and otherness
-- Death and petrification
-- Divine terror
-
-### Modern Symbolism
-- Survivor of sexual violence (feminist readings)
-- The male gaze and objectification of women
-- Female rage and empowerment
-- Transformation through trauma
-- Reclaiming the monstrous feminine
-
----
 
 ## Popular Culture
 
-### Literature
-- Dante's *Inferno* (Medusa guards City of Dis)
-- Percy Jackson series by Rick Riordan
-- Madeline Miller's works
-- Anne Carson's "Autobiography of Red"
+**Literature**: Hesiod, Theogony (c. 700 BC); Homer, Iliad (c. 8th c. BC); Pindar, Pythian 12 (5th c. BC); Pseudo-Apollodorus, Bibliotheca (1st–2nd c. AD); Ovid, Metamorphoses, Books IV–V (8 AD); Hélène Cixous, 'The Laugh of the Medusa' (1975); Rick Riordan, Percy Jackson and the Olympians: The Lightning Thief (2005)
 
-### Film & Television
-- *Clash of the Titans* (1981, 2010)
-- *Percy Jackson & the Olympians*
-- *Medusa* (2021)
-- Doctor Who episodes
+**Film / TV**: Clash of the Titans (1981; remake 2010); Percy Jackson & the Olympians: The Lightning Thief (2010)
 
-### Games
-- God of War series
-- Assassin's Creed Odyssey
-- Dungeons & Dragons
-- Hades (Supergiant Games)
+**Games**: Dungeons & Dragons (Medusa as standard monster, 1974–present); God of War series (Medusa and Gorgons as enemies)
 
-### Art
-- Caravaggio's "Medusa" (1597)
-- Bernini's "Medusa" (1630s)
-- Luciano Garbati's "Medusa with the Head of Perseus" (2008)
-- Versace logo and fashion brand
+**Other**: Versace fashion-house logo (Medusa head, since 1978); Sicilian flag (Trinacria with central gorgoneion)
 
 ---
+## Research
 
-## API Reference
+### Researchers
 
-Machine-readable data is available in [`api.json`](api.json).
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Jane Ellen Harrison | Newnham College, Cambridge | Ritual-mask theory of the gorgoneion | 1900–1928 |
+| Walter Burkert | University of Zurich | Near Eastern parallels for Greek myth and Gorgon iconography | 1960s–2010s |
+| Stephen R. Wilk | independent scholar | Monograph on Medusa imagery and reception | 2000s |
 
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const gorgon = await wyrd.getPhenomenon('gorgon');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/gorgon/main/api.json
-```
+Active in classical archaeology, art history, and reception studies; no cryptozoological research.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Primary Ancient Sources
+## How to Report a Sighting
 
-- Hesiod. *Theogony* (circa 700 BCE)
-- Homer. *Iliad*
-- Ovid. *Metamorphoses* (8 CE)
-- Apollodorus. *Bibliotheca*
-
-### Modern Scholarship
-
-- Wilk, S.R. (2000). *Medusa: Solving the Mystery of the Gorgon*. Oxford University Press.
-- Garber, M. & Vickers, N.J. (2003). *The Medusa Reader*. Routledge.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
